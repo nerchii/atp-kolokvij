@@ -16,3 +16,5 @@
 | Stavka   |      Stavka      |  Stavka |
 |----------|:-------------:|------:|
 | broj |  jdan | dva |
+---
+[licenca](LICENSE.md)
